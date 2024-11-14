@@ -4,18 +4,18 @@
 ---
 
 ### Mentee Info
-### - Name : Didik Cahyadi
-### - Program : IBM Advance AI @ Infinite Learning
+- **Name**: Didik Cahyadi
+- **Program**: IBM Advance AI @ Infinite Learning
 
 ---
+
 <p align="center">
   🔍 Proyek ini menganalisis sentimen teks untuk mengungkap emosi positif, negatif, atau netral menggunakan kekuatan <strong>Caikit</strong> dan <strong>Hugging Face Transformers</strong> 🔍
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black>
-  
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black">
 </p>
 
 ---
@@ -30,12 +30,12 @@
 - **Hugging Face Transformers**: Library model NLP yang luas dan mutakhir.
 - **Python**: Bahasa utama untuk kode yang kuat dan mudah dibaca.
 
-
 --- 
-### Dokumentasi
+
+## 📄 Dokumentasi
 1. Instal persyaratan
 ```
-pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 2. Mulai runtime
 ```
